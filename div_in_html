@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div style="height: 120px; width: 100%; background-color: blueviolet; float: left;"></div>
+    <div style="height: 120px; width: 50%; background-color: rgb(43, 226, 58); float: left;"></div>
+    <div style="height: 120px; width: 50%; background-color: rgb(187, 202, 21); float: left;"></div>
+    <div style="height: 120px; width: 33.33%; background-color: rgb(30, 20, 220); float: left;"></div>
+    <div style="height: 120px; width: 33.33%; background-color: #e22bdc; float: left;"></div>
+    <div style="height: 120px; width: 33.33%; background-color: #e22b2b; float: left;"></div>
+    <div style="height: 120px; width:25%; background-color: rgb(8, 149, 192); float: left;"></div>
+    <div style="height: 120px; width: 25%; background-color:red; float: left;"></div>
+    <div style="height: 120px; width: 25%; background-color:black; float: left;"></div>
+    <div style="height: 120px; width: 25%; background-color:goldenrod; float: left;"></div>
+    <div style="height: 120px; width: 20%; background-color:brown; float: left;"></div>
+    <div style="height: 120px; width: 20%; background-color:orangered; float: left;"></div>
+    <div style="height: 120px; width: 20%; background-color:purple; float: left;"></div>
+    <div style="height: 120px; width: 20%; background-color:gray; float: left;"></div>
+    <div style="height: 120px; width: 20%; background-color:orange; float: left;"></div>
+    <div style="height: 120px; width: 16.66%; background-color:mediumseagreen; float: left;"></div>
+    <div style="height: 120px; width:16.66%; background-color:greenyellow; float: left;"></div>
+    <div style="height: 120px; width: 16.66%; background-color:pink; float: left;"></div>
+    <div style="height: 120px; width: 16.66%; background-color:skyblue; float: left;"></div>
+    <div style="height: 120px; width: 16.66%; background-color:yellow; float: left;"></div>
+    <div style="height: 120px; width: 16.66%; background-color:violet; float: left;"></div>
+    <div style="height: 120px; width: 14.28%; background-color:blue; float: left;"></div>
+    <div style="height: 120px; width: 14.28%; background-color:rgb(17, 109, 214); float: left;"></div>
+    <div style="height: 120px; width: 14.28%; background-color:rgb(20, 194, 46); float: left;"></div>
+    <div style="height: 120px; width: 14.28%; background-color:palevioletred; float: left;"></div>
+    <div style="height: 120px; width: 14.28%; background-color:rosybrown; float: left;"></div>
+    <div style="height: 120px; width: 14.28%; background-color:wheat; float: left;"></div>
+    <div style="height: 120px; width: 14.28%; background-color:green; float: left;"></div>
+    <div style="height: 120px; width: 12.5%; background-color:green; float: left;"></div>
+    <div style="height: 120px; width: 12.5%; background-color:sandybrown; float: left;"></div>
+    <div style="height: 120px; width: 12.5%; background-color:slateblue; float: left;"></div>
+    <div style="height: 120px; width: 12.5%; background-color:firebrick; float: left;"></div>
+    <div style="height: 120px; width: 12.5%; background-color:yellow; float: left;"></div>
+    <div style="height: 120px; width: 12.5%; background-color:olivedrab; float: left;"></div>
+    <div style="height: 120px; width: 12.5%; background-color:lawngreen; float: left;"></div>
+    <div style="height: 120px; width: 12.5%; background-color:rgb(23, 101, 197); float: left;"></div>
+    <div style="height: 120px; width: 11.11%; background-color:rgb(20, 207, 114); float: left;"></div>
+    <div style="height: 120px; width: 11.11%; background-color:#91c517; float: left;"></div>
+    <div style="height: 120px; width: 11.11%; background-color:rgb(233, 207, 11); float: left;"></div>
+    <div style="height: 120px; width: 11.11%; background-color:#c57a17; float: left;"></div>
+    <div style="height: 120px; width: 11.11%; background-color:#d70a93; float: left;"></div>
+    <div style="height: 120px; width: 11.11%; background-color:rgb(233, 13, 17); float: left;"></div>
+    <div style="height: 120px; width: 11.11%; background-color:rgb(23, 101, 197); float: left;"></div>
+    <div style="height: 120px; width: 11.11%; background-color:blue; float: left;"></div>
+    <div style="height: 120px; width: 11.11%; background-color:black; float: left;"></div>
+    <div style="height: 120px; width: 10%; background-color:#850707; float: left;"></div>
+    <div style="height: 120px; width: 10%; background-color:#6cdb7d; float: left;"></div>
+    <div style="height: 120px; width: 10%; background-color:#1010b8; float: left;"></div>
+    <div style="height: 120px; width: 10%; background-color:#c0146d; float: left;"></div>
+    <div style="height: 120px; width: 10%; background-color:#70c4f2; float: left;"></div>
+    <div style="height: 120px; width: 10%; background-color:#7de074; float: left;"></div>
+    <div style="height: 120px; width: 10%; background-color:hsl(41, 90%, 27%); float: left;"></div>
+    <div style="height: 120px; width: 10%; background-color:#220202; float: left;"></div>
+    <div style="height: 120px; width: 10%; background-color:#07855d; float: left;"></div>
+    <div style="height: 120px; width: 10%; background-color:hsl(208, 67%, 76%); float: left;"></div>
+
+</body>
+</html>
